@@ -38,7 +38,7 @@
   "dependencies": {
     "lodash": "^4.0.0"
   },
-  "peerDependencies": {
+  "dependencies": {
     "leaflet": "^0.7.0",
     "react": "^0.14.0",
     "react-dom": "^0.14.0"
